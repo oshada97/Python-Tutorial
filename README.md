@@ -1,2 +1,2 @@
 # Python-Testings
-Python Tutorial 
+Python Tests
