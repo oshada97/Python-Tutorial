@@ -1,2 +1,3 @@
-# Python-Testings
-Python Tests
+# Python Calculator
+
+Python Calculator for interpretation speed test.
