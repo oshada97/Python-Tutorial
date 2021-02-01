@@ -1,4 +1,4 @@
 # Python Calculator
 
 Python Calculator for interpretation speed test.
-Python Core executed!
+Python Core 3.9.1 executed!
